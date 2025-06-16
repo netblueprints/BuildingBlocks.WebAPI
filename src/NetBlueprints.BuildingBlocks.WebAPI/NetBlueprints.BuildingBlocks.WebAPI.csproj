@@ -25,13 +25,13 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Authors>NetBlueprints</Authors>
         <Company>NetBlueprints</Company>
-        <Description>A set of reusable building blocks for implementing the Infrastructure layer in .NET solutions, following Clean Architecture and CQRS principles.</Description>
-        <Summary>A set of reusable building blocks for the Infrastructure layer in .NET applications</Summary>
-        <PackageProjectUrl>https://github.com/netblueprints/BuildingBlocks.Infrastructure</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/netblueprints/BuildingBlocks.Infrastructure</RepositoryUrl>
-        <PackageTags>Infrastructure Layer;CQRS;NetBlueprints;Clean Architecture;Reusable Components</PackageTags>
+        <Description>A collection of reusable components for building robust Web API layers in .NET projects, with first-class support for minimal APIs, exception handling, and endpoint grouping.</Description>
+        <Summary>A collection of reusable components for building robust Web API layers in .NET projects</Summary>
+        <PackageProjectUrl>https://github.com/netblueprints/BuildingBlocks.WebAPI</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/netblueprints/BuildingBlocks.WebAPI</RepositoryUrl>
+        <PackageTags>API;WebAPI;NetBlueprints;Reusable Components</PackageTags>
         <PackageIcon>icon.jpg</PackageIcon>
-        <Version>1.0.0</Version>
+        <Version>1.0.1</Version>
         <PublishRepositoryUrl>true</PublishRepositoryUrl>
     </PropertyGroup>
 
